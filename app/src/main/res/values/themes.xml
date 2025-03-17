@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TaskManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/light_green</item> <!-- Toolbar background color -->
+        <item name="colorSurface">@color/light_green</item> <!-- Status bar color -->
+        <item name="colorOnPrimary">@color/black</item> <!-- Toolbar text and icon color -->
+        <item name="android:statusBarColor">@color/light_green</item> <!-- Status bar color -->
+        <item name="android:navigationBarColor">@color/light_green</item>
+    </style>
+</resources>
